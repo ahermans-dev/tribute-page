@@ -1,0 +1,25 @@
+ <div id="main">
+<head>
+  <title id="title">Hamsters</title>
+  body {
+  background-color: #EBD8B7;
+}
+h1 {
+  text-align: center;
+  font-family: helvetica, sans-serif; 
+  color: #9A8194; 
+  font-size: 60px;
+}
+
+  
+</head>
+
+<body>
+  <h1>Hamsters</h1>
+ <fig id="img-div">
+   <img id="image" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Syrian_hamster.jpg" alt="Hamster photo">
+  </fig>
+    
+ 
+</body>
+    </div>
